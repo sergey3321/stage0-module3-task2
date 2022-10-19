@@ -9,7 +9,7 @@ public class NamingConvention {
         final int VARIABLE_FOUR = 4;
         final int VARIABLE_FIVE = 5;
         int variableSix = 6;
-        int variable_seven = 7;
+        int variableSeven = 7;
         int variableEight = 8;
     }
 }
